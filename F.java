@@ -1,4 +1,4 @@
-public class F implements K, J {
+public class F extends null implements K, J {
 
     private int c = 1;
 
