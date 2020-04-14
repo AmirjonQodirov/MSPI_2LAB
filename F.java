@@ -29,18 +29,38 @@ public class F extends null implements K, J {
     }
 
     public long dd() {
-        return 100500;
-    }
-
-    public int hh() {
-        return new java.util.Random().nextInt();
+        return 99999;
     }
 
     public Object rr() {
         return null;
     }
 
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
     public java.util.Random mm() {
         return new java.util.Random();
+    }
+
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public double ad() {
+        return 11;
     }
 }
